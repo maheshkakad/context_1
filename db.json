@@ -1,0 +1,48 @@
+{
+    "data": [
+   
+    {
+        "id": 1,
+        "email": "tobias.funke@reqres.in",
+        "first_name": "shantanu",
+        "last_name": "Funke",
+        "avatar": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2016/03/fall-trees-road-1.jpg"
+    },
+    {
+        "id": 2,
+        "email": "byron.fields@reqres.in",
+        "first_name": "gaurav",
+        "last_name": "Fields",
+        "avatar": "https://wallsdesk.com/wp-content/uploads/2017/01/Newfoundland-HD-Wallpaper.jpg"
+    },
+    {
+        "id": 3,
+        "email": "george.edwards@reqres.in",
+        "first_name": "vikas",
+        "last_name": "Edwards",
+        "avatar": "https://wallsdesk.com/wp-content/uploads/2017/01/Newfoundland-HD-Wallpaper.jpg"
+    },
+    {
+        "id": 4,
+        "email": "rachel.howell@reqres.in",
+        "first_name": "alpesh",
+        "last_name": "Howell",
+        "avatar": "https://wallsdesk.com/wp-content/uploads/2017/01/Newfoundland-HD-Wallpaper.jpg"
+    }
+    ,
+    {
+        "id": 5,
+        "email": "george.edwards@reqres.in",
+        "first_name": "patil",
+        "last_name": "Edwards",
+        "avatar": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2016/03/fall-trees-road-1.jpg"
+    },
+    {
+        "id": 6,
+        "email": "rachel.howell@reqres.in",
+        "first_name": "paru",
+        "last_name": "Howell",
+        "avatar": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2016/03/fall-trees-road-1.jpg"
+    }
+] 
+}
